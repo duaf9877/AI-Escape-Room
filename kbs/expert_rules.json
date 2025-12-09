@@ -1,0 +1,6 @@
+{
+    "give_hint_if_stuck": 3,
+    "reduce_difficulty_after_failures": 5,
+    "trap_penalty": 2,
+    "key_reward": 1
+}
